@@ -11,8 +11,6 @@ class House:
                 break
             else:
                 print(floor + 1)
-                floor = floor + 1
-
 
 h1 = House('ЖК Горский', 18)
 h2 = House('Домик в деревне', 2)
